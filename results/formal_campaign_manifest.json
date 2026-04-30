@@ -1,0 +1,33 @@
+{
+  "status": "completed",
+  "started_at": "2026-04-27T13:48:13+00:00",
+  "config": {
+    "workspace_root": ".",
+    "tracks": [
+      "GPV-S",
+      "GPV-M",
+      "GPV-L"
+    ],
+    "verifier_counts": [
+      1,
+      2,
+      4,
+      8,
+      16
+    ],
+    "trials": 5,
+    "mode": "optimized-hybrid",
+    "distribution_verifier_counts": [
+      1,
+      8
+    ],
+    "distribution_samples_per_class": 20000,
+    "report_path": "D:\\Obsidian\\仓库\\科研\\4月26日目前认为没问题的方案\\实验报告.md",
+    "assets_dir": "D:\\Obsidian\\仓库\\科研\\4月26日目前认为没问题的方案\\实验报告_assets",
+    "skip_existing": true
+  },
+  "completed_at": "2026-04-27T20:13:57+00:00",
+  "bench_output": "C:\\Users\\asus\\Documents\\paper_project\\lab\\artifacts\\final\\bench_full.csv",
+  "distribution_output": "C:\\Users\\asus\\Documents\\paper_project\\lab\\artifacts\\final\\distribution_full.csv",
+  "report_path": "D:\\Obsidian\\仓库\\科研\\4月26日目前认为没问题的方案\\实验报告.md"
+}

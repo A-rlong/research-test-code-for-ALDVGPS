@@ -1,0 +1,10 @@
+file,track,N,mode,verify_accepted,judge_accepted,signature_bytes,zk_proof_bytes,receipt_bytes,open_bytes
+smoke_gpv_l_n1.json,GPV-L,1,optimized-hybrid,True,True,1042617,768921354,1537857566,768923604
+smoke_gpv_l_n2.json,GPV-L,2,optimized-hybrid,True,True,1635522,767790850,1535596498,767793100
+smoke_gpv_l_n4.json,GPV-L,4,optimized-hybrid,True,True,2818866,747441778,1494898404,747444028
+smoke_gpv_m_n1.json,GPV-M,1,optimized-hybrid,True,True,769089,506908418,1013828634,506910156
+smoke_gpv_m_n2.json,GPV-M,2,optimized-hybrid,True,True,1208380,507756298,1015524403,507758036
+smoke_gpv_m_n4.json,GPV-M,4,optimized-hybrid,True,True,2087976,507756298,1015524412,507758036
+smoke_gpv_s_n1.json,GPV-S,1,optimized-hybrid,True,True,506208,289738466,579485700,289739692
+smoke_gpv_s_n2.json,GPV-S,2,optimized-hybrid,True,True,797495,295391026,590790816,295392252
+smoke_gpv_s_n4.json,GPV-S,4,optimized-hybrid,True,True,1379316,293695258,587399287,293696484

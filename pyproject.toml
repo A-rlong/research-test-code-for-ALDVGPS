@@ -1,0 +1,35 @@
+[build-system]
+requires = ["hatchling>=1.25.0"]
+build-backend = "hatchling.build"
+
+[project]
+name = "dvgrpsig"
+version = "0.1.0"
+description = "Designated verifier group proxy signature experiment harness"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy>=1.26",
+  "pandas>=2.2",
+  "matplotlib>=3.8",
+  "seaborn>=0.13",
+  "scipy>=1.12",
+]
+
+[project.optional-dependencies]
+gpu = [
+  "cupy-cuda12x>=13.0",
+]
+dev = [
+  "pytest>=8.2",
+]
+
+[project.scripts]
+dvgrpsig = "dvgrpsig.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/dvgrpsig"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

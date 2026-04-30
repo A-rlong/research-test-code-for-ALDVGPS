@@ -1,0 +1,54 @@
+{
+  "toy": {
+    "n": 4,
+    "m": 72,
+    "q": 257,
+    "sigma1": 2,
+    "sigma2": 3,
+    "sigma_enc": 3,
+    "bz": 80.0,
+    "beta_s": 4,
+    "challenge_weight": 2,
+    "stern_rounds": 4,
+    "trapdoor_offsets": [0, 1, 3]
+  },
+  "GPV-S": {
+    "n": 256,
+    "m": 11776,
+    "q": 8380417,
+    "sigma1": 512,
+    "sigma2": 512,
+    "sigma_enc": 160,
+    "bz": 300000.0,
+    "beta_s": 3,
+    "challenge_weight": 64,
+    "stern_rounds": 192,
+    "trapdoor_offsets": [0, 1, 3, 7]
+  },
+  "GPV-M": {
+    "n": 512,
+    "m": 23552,
+    "q": 8380417,
+    "sigma1": 640,
+    "sigma2": 640,
+    "sigma_enc": 192,
+    "bz": 500000.0,
+    "beta_s": 3,
+    "challenge_weight": 64,
+    "stern_rounds": 224,
+    "trapdoor_offsets": [0, 1, 3, 7]
+  },
+  "GPV-L": {
+    "n": 768,
+    "m": 35328,
+    "q": 8380417,
+    "sigma1": 768,
+    "sigma2": 768,
+    "sigma_enc": 224,
+    "bz": 900000.0,
+    "beta_s": 3,
+    "challenge_weight": 64,
+    "stern_rounds": 256,
+    "trapdoor_offsets": [0, 1, 3, 7]
+  }
+}

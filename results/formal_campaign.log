@@ -1,0 +1,84 @@
+[2026-04-27T04:04:07+00:00] Formal campaign started.
+[2026-04-27T04:04:07+00:00] Running bench shard track=GPV-S N=1 trials=50.
+[2026-04-27T05:17:03+00:00] Wrote bench shard bench_GPV-S_n1.csv with 500 rows.
+[2026-04-27T05:17:03+00:00] Running bench shard track=GPV-S N=2 trials=50.
+[2026-04-27T06:26:31.1223939+00:00] Formal campaign stopped manually because ReceiptProof is still surrogate, not full FS-SternExt.
+[2026-04-27T09:54:52+00:00] Formal campaign started.
+[2026-04-27T09:54:52+00:00] Running bench shard track=GPV-S N=1 trials=5.
+[2026-04-27T10:17:10+00:00] Formal campaign started.
+[2026-04-27T10:17:10+00:00] Running bench shard track=GPV-S N=1 trials=5.
+[2026-04-27T10:18:09+00:00] Wrote bench shard bench_GPV-S_n1.csv with 45 rows.
+[2026-04-27T10:18:09+00:00] Running bench shard track=GPV-S N=2 trials=5.
+[2026-04-27T10:19:13+00:00] Wrote bench shard bench_GPV-S_n2.csv with 45 rows.
+[2026-04-27T10:19:13+00:00] Running bench shard track=GPV-S N=4 trials=5.
+[2026-04-27T10:20:36+00:00] Wrote bench shard bench_GPV-S_n4.csv with 45 rows.
+[2026-04-27T10:20:36+00:00] Running bench shard track=GPV-S N=8 trials=5.
+[2026-04-27T10:22:16+00:00] Wrote bench shard bench_GPV-S_n8.csv with 45 rows.
+[2026-04-27T10:22:16+00:00] Running bench shard track=GPV-S N=16 trials=5.
+[2026-04-27T10:24:42+00:00] Wrote bench shard bench_GPV-S_n16.csv with 45 rows.
+[2026-04-27T10:24:42+00:00] Running bench shard track=GPV-M N=1 trials=5.
+[2026-04-27T10:35:37+00:00] Wrote bench shard bench_GPV-M_n1.csv with 45 rows.
+[2026-04-27T10:35:37+00:00] Running bench shard track=GPV-M N=2 trials=5.
+[2026-04-27T10:48:58+00:00] Wrote bench shard bench_GPV-M_n2.csv with 45 rows.
+[2026-04-27T10:48:58+00:00] Running bench shard track=GPV-M N=4 trials=5.
+[2026-04-27T11:07:55+00:00] Wrote bench shard bench_GPV-M_n4.csv with 45 rows.
+[2026-04-27T11:07:55+00:00] Running bench shard track=GPV-M N=8 trials=5.
+[2026-04-27T11:17:41+00:00] Formal campaign started.
+[2026-04-27T11:17:41+00:00] Skip existing bench shard bench_GPV-S_n1.csv.
+[2026-04-27T11:17:41+00:00] Skip existing bench shard bench_GPV-S_n2.csv.
+[2026-04-27T11:17:41+00:00] Skip existing bench shard bench_GPV-S_n4.csv.
+[2026-04-27T11:17:41+00:00] Skip existing bench shard bench_GPV-S_n8.csv.
+[2026-04-27T11:17:41+00:00] Skip existing bench shard bench_GPV-S_n16.csv.
+[2026-04-27T11:17:41+00:00] Skip existing bench shard bench_GPV-M_n1.csv.
+[2026-04-27T11:17:41+00:00] Skip existing bench shard bench_GPV-M_n2.csv.
+[2026-04-27T11:17:41+00:00] Skip existing bench shard bench_GPV-M_n4.csv.
+[2026-04-27T11:17:41+00:00] Running bench shard track=GPV-M N=8 trials=5.
+[2026-04-27T11:38:37+00:00] Wrote bench shard bench_GPV-M_n8.csv with 45 rows.
+[2026-04-27T11:38:37+00:00] Running bench shard track=GPV-M N=16 trials=5.
+[2026-04-27T12:06:07+00:00] Formal campaign started.
+[2026-04-27T12:06:07+00:00] Running bench shard track=GPV-S N=1 trials=5.
+[2026-04-27T12:06:25+00:00] Wrote bench shard bench_GPV-S_n1.csv with 45 rows.
+[2026-04-27T12:06:25+00:00] Running bench shard track=GPV-S N=2 trials=5.
+[2026-04-27T12:06:47+00:00] Wrote bench shard bench_GPV-S_n2.csv with 45 rows.
+[2026-04-27T12:06:47+00:00] Running bench shard track=GPV-S N=4 trials=5.
+[2026-04-27T12:07:30+00:00] Wrote bench shard bench_GPV-S_n4.csv with 45 rows.
+[2026-04-27T12:07:30+00:00] Running bench shard track=GPV-S N=8 trials=5.
+[2026-04-27T12:08:36+00:00] Wrote bench shard bench_GPV-S_n8.csv with 45 rows.
+[2026-04-27T12:08:36+00:00] Running bench shard track=GPV-S N=16 trials=5.
+[2026-04-27T12:10:12+00:00] Wrote bench shard bench_GPV-S_n16.csv with 45 rows.
+[2026-04-27T12:10:12+00:00] Running bench shard track=GPV-M N=1 trials=5.
+[2026-04-27T12:18:32+00:00] Wrote bench shard bench_GPV-M_n1.csv with 45 rows.
+[2026-04-27T12:18:32+00:00] Running bench shard track=GPV-M N=2 trials=5.
+[2026-04-27T12:29:01+00:00] Wrote bench shard bench_GPV-M_n2.csv with 45 rows.
+[2026-04-27T12:29:01+00:00] Running bench shard track=GPV-M N=4 trials=5.
+[2026-04-27T12:44:14+00:00] Wrote bench shard bench_GPV-M_n4.csv with 45 rows.
+[2026-04-27T12:44:14+00:00] Running bench shard track=GPV-M N=8 trials=5.
+[2026-04-27T13:09:34+00:00] Wrote bench shard bench_GPV-M_n8.csv with 45 rows.
+[2026-04-27T13:09:34+00:00] Running bench shard track=GPV-M N=16 trials=5.
+[2026-04-27T13:48:13+00:00] Formal campaign started.
+[2026-04-27T13:48:13+00:00] Skip existing bench shard bench_GPV-S_n1.csv.
+[2026-04-27T13:48:13+00:00] Skip existing bench shard bench_GPV-S_n2.csv.
+[2026-04-27T13:48:13+00:00] Skip existing bench shard bench_GPV-S_n4.csv.
+[2026-04-27T13:48:13+00:00] Skip existing bench shard bench_GPV-S_n8.csv.
+[2026-04-27T13:48:13+00:00] Skip existing bench shard bench_GPV-S_n16.csv.
+[2026-04-27T13:48:13+00:00] Skip existing bench shard bench_GPV-M_n1.csv.
+[2026-04-27T13:48:13+00:00] Skip existing bench shard bench_GPV-M_n2.csv.
+[2026-04-27T13:48:13+00:00] Skip existing bench shard bench_GPV-M_n4.csv.
+[2026-04-27T13:48:13+00:00] Skip existing bench shard bench_GPV-M_n8.csv.
+[2026-04-27T13:48:13+00:00] Running bench shard track=GPV-M N=16 trials=5.
+[2026-04-27T14:37:04+00:00] Wrote bench shard bench_GPV-M_n16.csv with 45 rows.
+[2026-04-27T14:37:04+00:00] Running bench shard track=GPV-L N=1 trials=5.
+[2026-04-27T14:57:43+00:00] Wrote bench shard bench_GPV-L_n1.csv with 45 rows.
+[2026-04-27T14:57:43+00:00] Running bench shard track=GPV-L N=2 trials=5.
+[2026-04-27T15:25:23+00:00] Wrote bench shard bench_GPV-L_n2.csv with 45 rows.
+[2026-04-27T15:25:23+00:00] Running bench shard track=GPV-L N=4 trials=5.
+[2026-04-27T16:43:41+00:00] Wrote bench shard bench_GPV-L_n4.csv with 45 rows.
+[2026-04-27T16:43:41+00:00] Running bench shard track=GPV-L N=8 trials=5.
+[2026-04-27T18:00:23+00:00] Wrote bench shard bench_GPV-L_n8.csv with 45 rows.
+[2026-04-27T18:00:23+00:00] Running bench shard track=GPV-L N=16 trials=5.
+[2026-04-27T20:13:57+00:00] Wrote bench shard bench_GPV-L_n16.csv with 45 rows.
+[2026-04-27T20:13:57+00:00] Distribution campaign skipped by current formal experiment plan.
+[2026-04-27T20:13:57+00:00] Aggregated bench shards into bench_full.csv.
+[2026-04-27T20:13:57+00:00] Aggregated distribution shards into distribution_full.csv.
+[2026-04-27T20:13:57+00:00] Report written to D:\Obsidian\仓库\科研\4月26日目前认为没问题的方案\实验报告.md.
+[2026-04-27T20:13:57+00:00] Formal campaign completed.
