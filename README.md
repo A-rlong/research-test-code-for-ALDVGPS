@@ -54,5 +54,4 @@ python scripts/run_bench.py --tracks GPV-S --verifier-counts 1 --trials 1 --mode
 ```
 
 The full benchmark data used by the manuscript is included under `results/`.
-The final public version should be archived on Zenodo and cited by DOI in the
-manuscript.
+
